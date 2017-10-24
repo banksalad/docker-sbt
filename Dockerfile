@@ -1,4 +1,4 @@
-FROM rainist/scala:2.12.3
+FROM rainist/scala:2.12.4
 
 MAINTAINER Rainist Engineering <engineering@rainist.com>
 
