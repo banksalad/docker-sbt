@@ -1,6 +1,6 @@
 FROM rainist/scala:2.12.4
 
-MAINTAINER Rainist Engineering <engineering@rainist.com>
+LABEL maintainer="engineering@rainist.com"
 
 ENV SBT_VERSION 1.1.0
 ENV SBT_HOME /usr/local/sbt
