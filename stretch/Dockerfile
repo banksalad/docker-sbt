@@ -1,4 +1,4 @@
-FROM rainist/scala:2.12.7
+FROM rainist/scala:2.12.7-stretch
 
 LABEL maintainer="engineering@rainist.com"
 
