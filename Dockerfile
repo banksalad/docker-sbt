@@ -1,8 +1,8 @@
-FROM rainist/scala:2.12.6
+FROM rainist/scala:2.12.7
 
 LABEL maintainer="engineering@rainist.com"
 
-ENV SBT_VERSION 1.2.0
+ENV SBT_VERSION 1.2.6
 ENV SBT_HOME /usr/local/sbt
 
 ENV PATH ${PATH}:${SBT_HOME}/bin
